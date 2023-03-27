@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-yarn spell --cache --no-progress
-yarn lint:fix
+npx --no -- commitlint --edit 
