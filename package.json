@@ -1,8 +1,13 @@
 {
-  "name": "poly-mono-game",
+  "name": "react-tailwind-template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "email": "gandresto@outlook.com",
+    "name": "Andres Gonzalez",
+    "url": "https://github.com/gandresto/react-tailwind-template.git"
+  },
   "scripts": {
     "prepare": "husky install",
     "dev": "vite",
